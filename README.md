@@ -1,4 +1,6 @@
-### Hi there 👋
+## 大家好啊，这里是圣迹 👋
+  只是一个热爱minecraft的人，并且恰好会一点Java所以就出来试试写个插件而已<br>
+  水品很低，熟练度也不够，api啥的也总是读不懂，正在上高二也没精力，不过我估计我写的插件也没人翻得到就是了（<br>
 
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
