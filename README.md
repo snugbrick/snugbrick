@@ -3,7 +3,11 @@
   水平很低，熟练度也不够，api啥的也总是不会用，正在上高二也没精力，不过我估计我写的插件也没人翻得到就是了（<br>
   <br>
   如果我写的插件恰好帮到你了，那真是荣幸（<br>
-  不足也可以给我提出来，我会认真去看
+  不足也可以给我提出来，我会认真去看<br>
+### 常用语言
+* Java<br>
+* Kotlin<br>
+* C#<br>
 
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
