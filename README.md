@@ -5,10 +5,13 @@
   如果我写的插件和模组恰好帮到你了，那真是荣幸（<br>
   不足也可以给我提出来，我会认真去看<br>
   <br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snugbrick&theme=nord_bright"/><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br>
-<br>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snugbrick&theme=nord_bright"/><br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br>
+<br><br>
+<br><br><br><br>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-A06BCC?style=for-the-badge&logo=kotlin&logoColor=white">
