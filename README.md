@@ -4,6 +4,8 @@
   <br>
   如果我写的插件和模组恰好帮到你了，那真是荣幸（<br>
   不足也可以给我提出来，我会认真去看<br>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=0414a3&title_color=0414a3"/>
 ### 常用语言
 * Java<br>
 * Kotlin<br>
