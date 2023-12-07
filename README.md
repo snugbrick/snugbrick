@@ -5,11 +5,16 @@
   如果我写的插件和模组恰好帮到你了，那真是荣幸（<br>
   不足也可以给我提出来，我会认真去看<br>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=0414a3&title_color=0414a3"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=0414a3&title_color=0414a3"/><br>
+  
 ### 常用语言
-* Java<br>
-* Kotlin<br>
-* C#<br>
+* <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br>
+* <img src="https://img.shields.io/badge/kotlin-A06BCC?style=for-the-badge&logo=kotlin&logoColor=white"><br>
+* <img src="https://img.shields.io/badge/csharp-0AB990?style=for-the-badge&logo=csharp&logoColor=white"><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
