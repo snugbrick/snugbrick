@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/kotlin-A06BCC?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-0AB990?style=for-the-badge&logo=csharp&logoColor=white"><br>
 </p><br>
-<br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=snugbrick&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p><br>
 <br>
@@ -22,6 +21,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
