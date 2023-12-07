@@ -6,7 +6,7 @@
   不足也可以给我提出来，我会认真去看<br>
   <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=6CDCC1&title_color=6CDCC1"/><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=snugbrick&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br>
 <br>
 
 <p align="center">
