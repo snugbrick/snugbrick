@@ -11,7 +11,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snugbrick&theme=nord_bright"/><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snugbrick&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snugbrick&theme=nord_bright&utcOffset=8)
 <br><br>
 
 <p align="center">
