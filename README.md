@@ -1,8 +1,8 @@
 ## 大家好啊，这里是残垣流光 | RuinFlowLight 👋
-  * 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
-  * 喜欢用java和kotlin，正在学习c/cpp和别的有趣的东西<br>
-  * 是高二学生，总是没有太多精力 <br>
-  <br>
+   * 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
+   * 喜欢用java和kotlin，正在学习c/cpp和别的有趣的东西<br>
+   * 是高二学生，总是没有太多精力 <br>
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=snugbrick&hide_border=true&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br><br>
 <br><br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snugbrick&layout=compact&hide_border=true&langs_count=16&icon_color=059878&title_color=059878"/><br>
