@@ -1,4 +1,5 @@
-## 大家好啊，这里是残垣流光 | RuinFlowLight 👋
+<h1 align="center">大家好啊，这里是残垣流光 | RuinFlowLight 👋</h1>
+
    > 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
    
    > 喜欢用Java和Kotlin，正在学习c/cpp和别的有趣的东西<br>
