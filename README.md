@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-A06BCC?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-0AB990?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/TypeScript-2b7489?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=white"><br>
 </p><br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=snugbrick&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p><br>
