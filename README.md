@@ -1,4 +1,4 @@
-<h1 align="center">大家好啊，这里是残垣流光 | RuinFlowLight 👋</h1>
+<h1 align="center">大家好啊，这里是残垣流光 👋</h1>
 
    > 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
    
