@@ -5,8 +5,6 @@
    > 喜欢用Java和Kotlin，正在学习c/cpp和别的有趣的东西<br>
    
    > 是高二学生，总是没有太多精力 <br>
-
-   > 想找一个开发团队进去摸鱼 (划掉 <br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=snugbrick&hide_border=true&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br><br>
 <br><br><br><br><br><br><br><br>
