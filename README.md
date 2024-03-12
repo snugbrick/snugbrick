@@ -2,7 +2,7 @@
 
    > 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
    
-   > 喜欢用Java和Kotlin，正在学习c/cpp和别的有趣的东西<br>
+   > 喜欢用Java和Kotlin，正在学习c/cpp和.js什么的<br>
    
    > 是高二学生，总是没有太多精力 <br>
 
