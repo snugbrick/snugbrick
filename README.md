@@ -1,19 +1,19 @@
-<h1 align="center">大家好啊，这里是残垣流光 👋</h1>
+<h1 align="center">Hi There , Here is RuinFlowLight 👋</h1>
 
-   > 喜欢minecraft，热衷于给minecraft编写插件和模组<br>
+   > Tend to develop mods and plugins for Minecraft<br>
    
-   > 喜欢用Java和Kotlin，正在学习c/cpp和.js什么的<br>
+   > Tend to use Java & Kotlin，studing c/cpp & js/ts and more<br>
    
-   > 是高二学生，总是没有太多精力 <br>
+   > A high school student,Not much time for developing<br>
 
-   > ~~想找大佬带qwq~~ <br>
+   > ~~Looking for some partners~~ <br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=snugbrick&hide_border=true&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br><br>
 <br><br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snugbrick&count_private=true&layout=compact&hide_border=true&langs_count=16&icon_color=059878&title_color=059878"/><br>
 
 ```
-当前项目(排序涉及优先级)
+Current project (sorting involves priority)
 > miracleRPG
 > sakuraTech
 > emploWar
