@@ -4,7 +4,7 @@
    
    > Tend to use Java & Kotlin，studing c/cpp & js/ts and more<br>
    
-   > A high school student,Not much time for developing<br>
+   > A high school student，not much time for developing<br>
 
    > ~~Looking for some partners~~ <br>
  
