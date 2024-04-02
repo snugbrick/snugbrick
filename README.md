@@ -7,6 +7,8 @@
    > A high school student，not much time for development<br>
 
    > ~~Looking for some partners~~ <br>
+
+   > And you can also call me "圣迹" <br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=snugbrick&hide_border=true&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/><br><br>
 <br><br><br><br><br><br><br><br>
