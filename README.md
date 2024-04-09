@@ -9,6 +9,8 @@
    > ~~Looking for some partners~~ <br>
 
    > And you can also call me "圣迹" <br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/> <br>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=snugbrick&hide_border=true&count_private=true&show_icons=true&icon_color=059878&title_color=059878"/>
 
