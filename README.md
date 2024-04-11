@@ -8,8 +8,6 @@
 
    > ~~Looking for some partners~~ <br>
 
-   > And you can also call me "圣迹" <br>
-   
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Idea" alt="Idea" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Idea" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="30" height="30"/>
