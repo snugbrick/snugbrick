@@ -8,8 +8,10 @@
 
    > ~~Looking for some partners~~ <br>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Idea" alt="Idea" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Idea" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Idea" alt="Idea" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="clion" alt="clion" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>
