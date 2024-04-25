@@ -1,4 +1,4 @@
-<h1 align="center">Hi There , Here is MiracleUR & 圣迹 👋</h1>
+<h1 align="center">Hi There , Here is MiracleUR 👋</h1>
 
    > Tend to develop mods and plugins for Minecraft<br>
    
