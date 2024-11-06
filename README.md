@@ -1,10 +1,10 @@
 <h1 align="center">Hi There , Here is MiracleUR 👋</h1>
 
-   > Tend to develop mods and plugins for Minecraft<br>
+   > 喜欢玩Minecraft所以经常给Minecraft做一些开发<br>
    
-   > Tend to use Java & Kotlin，studing c/cpp & js/ts and more<br>
+   > 比较喜欢用java和kotlin 但是也经常用cpp或者ts搞一些别的有趣的东西<br>
    
-   > High school student, don't have time to write large projects :/<br>
+   > 高三高考生 暂时没时间开发XD<br>
 
    > ~~Looking for some partners~~ <br>
 
