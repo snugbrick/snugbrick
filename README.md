@@ -6,6 +6,8 @@
    
    > 高三高考生 暂时没时间开发XD<br>
 
+   > 圣迹是老名字了 想改成茳渡但是害怕有人不认识了 所以两个名字都是可以叫的<br>
+
    > ~~Looking for some partners~~ <br>
 
    > ~~点点star谢谢喵qwq~~ <br>
