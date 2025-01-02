@@ -8,8 +8,6 @@
 
    > 圣迹是老名字了 想改成茳渡但是害怕有人不认识了 所以两个名字都是可以叫的<br>
 
-   > ~~点点star谢谢喵qwq~~ <br>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
