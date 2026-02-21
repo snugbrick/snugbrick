@@ -19,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="clion" alt="clion" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="30" height="30"/>
 
-![nya](https://github-stats.ubrong.com/api/top-langs/?username=snugbrick&layout=compact&theme=tokyonight)
+![nya](https://github-stats.ubrong.com/api/top-langs/?username=snugbrick&layout=compact&theme=tokyonight&langs_count=10)
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
