@@ -22,7 +22,7 @@
 ![nya](https://github-stats.ubrong.com/api/top-langs/?username=snugbrick&layout=compact&theme=tokyonight&langs_count=10)
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@snugbrick?theme=gelbooru" />
+  <img src="https://count.getloli.com/get/@snugbrick?theme=green" />
 </div>
 <!--
 **snugbrick/snugbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
