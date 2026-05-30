@@ -1,15 +1,5 @@
 <h1 align="center">Hi There , Here is MiracleUR 👋</h1>
 
-   > 喜欢玩Minecraft所以经常给Minecraft做一些开发<br>
-   
-   > 比较喜欢用java和kotlin 但是也经常用cpp或者ts搞一些别的有趣的东西<br>
-   
-   > 化学专业 但是同样喜欢生物以及计算机芝士<br>
-
-   > 圣迹是老名字了 想改成茳渡但是害怕有人不认识了 所以两个名字都是可以叫的<br>
-
-   > 目前目标是学习计算机图形学开发独立游戏:)<br>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
